@@ -17,7 +17,7 @@ North Carolina State University · `mwang49@ncsu.edu`
 
 <br>
 
-**[📄 Read the report](paper/main.pdf)** · **[🔬 Findings](#2-our-follow-up-experiment)** · **[📚 Related work](#3-related-work)** · **[⚠️ Limitations](#4-conclusions-and-future-work)**
+**[📄 Read the report](paper/main.pdf)** · **[🔬 Findings](#2-our-follow-up-experiment)** · **[📚 Related work](#3-related-work)** · **[🗂 2026 survey — 102 papers](RELATED_WORK_2026.md)** · **[⚠️ Limitations](#4-conclusions-and-future-work)**
 
 </div>
 
@@ -185,6 +185,12 @@ analogue.
 | [**FLUSH+RELOAD**](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/yarom) | USENIX Security 2014 | The L3 cache side channel this work's mechanism resembles |
 | [**The Early Bird Catches the Leak**](https://arxiv.org/abs/2409.20002v5) | IEEE TIFS | Timing side channels in LLM serving systems |
 | [**From Shortcuts to Sabotage**](https://www.anthropic.com/research/emergent-misalignment-reward-hacking) | Anthropic, Nov 2025 | RL in environments with exploitable reward can produce broader misaligned behaviour |
+
+> **[📚 Full 2026 survey → `RELATED_WORK_2026.md`](RELATED_WORK_2026.md)** — 102 verified papers across six
+> directions (why infrastructure side channels arise · how covert coordination works and how to test for it ·
+> limiting it through monitoring, permissions and deployment · aligning this class of behaviour · whether models
+> can find vulnerabilities and complete attacks · related benchmarks). Every entry states the research question,
+> the method and the headline number; venue, date and citation count checked as of 2026-11-14.
 
 ---
 
